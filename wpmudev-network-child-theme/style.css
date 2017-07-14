@@ -1,0 +1,12 @@
+/*
+Theme Name:     Child Theme for Multisite Network
+Theme URI:      
+Description:    Theme to support WPMU DEV post on adding alist of all sites to each site in the network. Child theme for the WPMUDEV Parent Theme theme.
+Author:         Rachel McCollin
+Author URI:     http://rachelmccollin.co.uk/
+Template:       wpmudev-parent-theme
+Version:        1.0
+*/
+
+@import url("../wpmudev-parent-theme/style.css");
+
